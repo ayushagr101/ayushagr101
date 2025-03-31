@@ -25,3 +25,11 @@
 ## 📊 GitHub Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushagr101&show_icons=true&locale=en&layout=compact" alt="ayushagr101" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushagr101&" alt="ayushagr101" /></p>
+
+---
+
+<div align="center">
+  <i>"Life would be tragic if it weren’t funny.” — Stephen Hawking</i>
+</div>
