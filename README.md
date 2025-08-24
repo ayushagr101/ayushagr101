@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ayush Agarwal</h1>
 <h3 align="center">A motivated learner who is constantly seeking new information. Hi there, connections! As a student, my goal is to always better myself. As a hardware explorer and code aficionado, I follow the world's swift technological development. I've always loved learning about the workings of the technology that surrounds us, and now I'm rushing headlong into a future where I'll be both a spectator and a changemaker.</h3>
 
-- 🔭 I’m currently working on [Campus Beacon](https://github.com/ayush-jadaun/CampusBeacon)
-
-- 🔭 I’m currently working with [Coresearch AI](https://github.com/CoResearchAI/CoResearchAI.github.io)
+- 🔭 I’m currently exploring on **Competitive Programming Stuff!!**
 
 - 🌱 I’m currently learning **Full Stack Development and Artificial Intelligence**
 
 - 📫 How to reach me **ayush.agr160@gmail.com**
 
-- ⚡ Fun fact **I have a creative side that enables me to design various things.**
+- ⚡ Fun fact **I have a creative side that enables me to customise my variables!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayush-agarwal-108127311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-agarwal-108127311" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayushagarwal101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-agarwal-108127311" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ayush.agarwal161204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayush.agarwal161204" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayush_agr101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush_agr101" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<bossagxd75>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<bossagxd75>" height="30" width="40" /></a>
