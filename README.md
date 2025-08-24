@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Agarwal</h1>
 <h3 align="center">A motivated learner who is constantly seeking new information. Hi there, connections! As a student, my goal is to always better myself. As a hardware explorer and code aficionado, I follow the world's swift technological development. I've always loved learning about the workings of the technology that surrounds us, and now I'm rushing headlong into a future where I'll be both a spectator and a changemaker.</h3>
 
-- 🔭 I’m currently exploring on **Competitive Programming Stuff!!**
+- 🔭 I’m currently exploring on **Competitive Programming Stuff!**
 
-- 🌱 I’m currently learning **Full Stack Development and Artificial Intelligence**
+- 🌱 I’m currently learning ** || Full Stack Development and Artificial Intelligence ||**
 
 - 📫 How to reach me **ayush.agr160@gmail.com**
 
