@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently exploring on **Competitive Programming Stuff!**
 
-- 🌱 I’m currently learning ** || Full Stack Development and Artificial Intelligence ||**
+- 🌱 I’m currently learning **|| Full Stack Development and Artificial Intelligence ||**
 
 - 📫 How to reach me **ayush.agr160@gmail.com**
 
