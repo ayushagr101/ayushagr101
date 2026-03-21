@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **|| Full Stack Development and Artificial Intelligence ||**
 
-- 📫 How to reach me **ayush.agr160@gmail.com**
+- 📫 How to reach me **ayush.agarwal161204@gmail.com**
 
 - ⚡ Fun fact **I have a creative side that enables me to customise my variables!**
 
