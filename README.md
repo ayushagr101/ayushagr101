@@ -1,29 +1,119 @@
-<h1 align="center">Hi 👋, I'm Ayush Agarwal</h1>  
-<h3 align="center">A motivated learner who is constantly seeking new information. Hi there, connections! As a student, my goal is to always better myself. As a hardware explorer and code aficionado, I follow the world's swift technological development. I've always loved learning about the workings of the technology that surrounds us, and now I'm rushing headlong into a future where I'll be both a spectator and a changemaker.</h3>  🔭 I’m currently exploring on Competitive Programming
+# Hi, I'm Ayush Agarwal
 
-🌱 I’m currently learning || Full Stack Development and Artificial Intelligence ||
+### Full Stack Developer | Competitive Programmer | AI Enthusiast
 
-📫 How to reach me ayush.agr160@gmail.com
+I’m a developer interested in building practical software, solving algorithmic problems, and exploring emerging technologies. I enjoy working across the stack, from designing user interfaces to developing backend systems and integrating AI into applications.
 
-📫 How to reach me ayush.agarwal161204@gmail.com
+Currently, I’m strengthening my skills in **Data Structures & Algorithms, Full Stack Development, and Artificial Intelligence** while working on projects that solve real-world problems.
 
-⚡ Fun fact I have a creative side, love to desgin stuff!
-
-
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
-<a href="https://linkedin.com/in/ayushagarwal101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-agarwal-108127311" height="30" width="40" /></a>  
-<a href="https://codeforces.com/profile/ayush.agarwal161204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayush.agarwal161204" height="30" width="40" /></a>  
-<a href="https://www.leetcode.com/ayushagr101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushagr101" height="30" width="40" /></a>  
-<a href="https://auth.geeksforgeeks.org/user/<bossagxd75>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<bossagxd75>" height="30" width="40" /></a>  
-</p>  <h3 align="left">Languages and Tools:</h3>  
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>  📊 GitHub Stats:
-
-<div align="center">  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushagr101&show_icons=true&locale=en&layout=compact" alt="ayushagr101" /></p>  
-</div>  
 ---
 
-<div align="center">  <i>"Life would be tragic if it weren’t funny.” — Stephen Hawking</i>
+## About Me
+
+* Computer Science student with an interest in software development
+* Strong interest in **Data Structures & Algorithms and Competitive Programming**
+* Currently working with the **MERN stack** and exploring AI integration
+* Enjoy building **full-stack applications and developer-focused projects**
+* Interested in learning about **system design, scalable applications, and intelligent software**
+* I also have an interest in **UI/UX and visual design**
+* Always looking to learn, build, and improve
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript" />
+</p>
+
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### Backend & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Mobile & Other Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,reactnative,arduino,git,github" />
+</p>
+
+### Design & Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,vscode" />
+</p>
+
+---
+
+## Competitive Programming
+
+I regularly practice Data Structures & Algorithms and participate in competitive programming to improve my problem-solving and algorithmic thinking.
+
+<p align="left">
+
+<a href="https://codeforces.com/profile/ayush.agarwal161204">
+<img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/ayushagr101">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/bossagxd75/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## Current Focus
+
+* Competitive Programming
+* Full Stack Development
+* Artificial Intelligence
+* Building practical software projects
+* Improving problem-solving and system design skills
+
+---
+
+## GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ayushagr101&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/ayushagarwal101">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+
+<a href="mailto:ayush.agr160@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+**Build. Learn. Improve. Repeat.**
 
 </div>
