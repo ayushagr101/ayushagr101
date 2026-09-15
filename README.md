@@ -43,7 +43,7 @@ Currently, I’m strengthening my skills in **Data Structures & Algorithms, Full
 ### Mobile & Other Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,reactnative,arduino,git,github" />
+<img src="https://skillicons.dev/icons?i=flutter,arduino,git,github" />
 </p>
 
 ### Design & Development Tools
