@@ -86,15 +86,6 @@ I regularly practice Data Structures & Algorithms and participate in competitive
 
 ---
 
-## GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ayushagr101&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## Connect With Me
 
